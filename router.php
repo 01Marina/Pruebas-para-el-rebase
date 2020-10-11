@@ -4,6 +4,7 @@
 <<<<<<< HEAD
     echo "nos vemos";
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b0962a7... Nuevo mensaje de bienvenida
 =======
@@ -16,3 +17,6 @@
     }
 ?>
 >>>>>>> acb18c2... Agrego un if a el router
+=======
+?>
+>>>>>>> 4f7dbfc... Realizo el revert para el if
